@@ -1,0 +1,35 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebugFiles/
+[Dd]ebug/
+[Dd]ebugPortable/
+[Dd]ist/
+
+# Visual Studio temporary files, folders, and files
+.vs/
+.vs2019/
+.vscode/
+.idea/
+
+# Build artifacts
+bin/
+obj/
+
+# Package and dependency folders
+packages/
+.nuget/
+
+# Data files
+App_Data/
+
+# Log files
+*.log
